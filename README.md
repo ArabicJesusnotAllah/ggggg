@@ -29,3 +29,4 @@ git clone https://github.com/aircrack-ng/mdk4 cd mdk4 make make install cd
 apt update -y apt upgrade -y
 
 git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git cd airgeddon clear bash airgeddon.sh
+Hh
